@@ -44,7 +44,7 @@ int main()
             break;
         case '2':
         {
-            cout << "\Before Post Increament :: " << D;
+            cout << "\nBefore Post Increament :: " << D;
             cout << "\nAt the Time of Post Increament :: " << D++;
             cout << "\nAfter Post Increament :: " << D;
         }
